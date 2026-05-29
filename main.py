@@ -236,6 +236,7 @@ class EchoTalkWindow(QWidget):
         self.is_recording = False
         print(f"[EchoTalk] Error: {message}")
 
+    @Slot()
     def _reset_button_state(self):
         self.record_button.setText("Iniciar grabación")
         self.record_button.setStyleSheet(

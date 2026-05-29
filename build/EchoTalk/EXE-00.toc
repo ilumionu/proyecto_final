@@ -69,7 +69,7 @@
  [],
  False,
  False,
- 1779972593,
+ 1780020333,
  [('runw',
    '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
    'final/.venv/lib/python3.14/site-packages/PyInstaller/bootloader/Darwin-64bit/runw',

@@ -547,20 +547,20 @@
    '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
    'final/.venv/lib/python3.14/site-packages/PyInstaller/fake-modules/_pyi_rth_utils/__init__.py',
    'PYMODULE'),
+  ('stringprep',
+   '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/stringprep.py',
+   'PYMODULE'),
   ('_py_warnings',
    '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/_py_warnings.py',
    'PYMODULE'),
   ('tracemalloc',
    '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/tracemalloc.py',
    'PYMODULE'),
-  ('codeop',
-   '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/codeop.py',
-   'PYMODULE'),
   ('_py_abc',
    '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/_py_abc.py',
    'PYMODULE'),
-  ('stringprep',
-   '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/stringprep.py',
+  ('codeop',
+   '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/codeop.py',
    'PYMODULE'),
   ('shiboken6',
    '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
@@ -833,77 +833,85 @@
    '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
    'final/.venv/lib/python3.14/site-packages/PySide6/Qt/plugins/styles/libqmacstyle.dylib',
    'BINARY'),
-  ('PySide6/Qt/plugins/imageformats/libqmacjp2.dylib',
+  ('PySide6/Qt/plugins/imageformats/libqsvg.dylib',
    '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/plugins/imageformats/libqmacjp2.dylib',
-   'BINARY'),
-  ('PySide6/Qt/plugins/platforminputcontexts/libqtvirtualkeyboardplugin.dylib',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/plugins/platforminputcontexts/libqtvirtualkeyboardplugin.dylib',
-   'BINARY'),
-  ('PySide6/Qt/plugins/imageformats/libqmacheif.dylib',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/plugins/imageformats/libqmacheif.dylib',
-   'BINARY'),
-  ('PySide6/Qt/plugins/imageformats/libqgif.dylib',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/plugins/imageformats/libqgif.dylib',
-   'BINARY'),
-  ('PySide6/Qt/plugins/imageformats/libqico.dylib',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/plugins/imageformats/libqico.dylib',
-   'BINARY'),
-  ('PySide6/Qt/plugins/imageformats/libqpdf.dylib',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/plugins/imageformats/libqpdf.dylib',
-   'BINARY'),
-  ('PySide6/Qt/plugins/imageformats/libqjpeg.dylib',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/plugins/imageformats/libqjpeg.dylib',
-   'BINARY'),
-  ('PySide6/Qt/plugins/generic/libqtuiotouchplugin.dylib',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/plugins/generic/libqtuiotouchplugin.dylib',
-   'BINARY'),
-  ('PySide6/Qt/plugins/imageformats/libqwbmp.dylib',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/plugins/imageformats/libqwbmp.dylib',
-   'BINARY'),
-  ('PySide6/Qt/plugins/imageformats/libqicns.dylib',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/plugins/imageformats/libqicns.dylib',
-   'BINARY'),
-  ('PySide6/Qt/plugins/platforms/libqoffscreen.dylib',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/plugins/platforms/libqoffscreen.dylib',
-   'BINARY'),
-  ('PySide6/Qt/plugins/platforms/libqminimal.dylib',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/plugins/platforms/libqminimal.dylib',
-   'BINARY'),
-  ('PySide6/Qt/plugins/iconengines/libqsvgicon.dylib',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/plugins/iconengines/libqsvgicon.dylib',
-   'BINARY'),
-  ('PySide6/Qt/plugins/imageformats/libqtga.dylib',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/plugins/imageformats/libqtga.dylib',
-   'BINARY'),
-  ('PySide6/Qt/plugins/platforms/libqcocoa.dylib',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/plugins/platforms/libqcocoa.dylib',
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/plugins/imageformats/libqsvg.dylib',
    'BINARY'),
   ('PySide6/Qt/plugins/imageformats/libqwebp.dylib',
    '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
    'final/.venv/lib/python3.14/site-packages/PySide6/Qt/plugins/imageformats/libqwebp.dylib',
    'BINARY'),
-  ('PySide6/Qt/plugins/imageformats/libqsvg.dylib',
+  ('PySide6/Qt/plugins/imageformats/libqgif.dylib',
    '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/plugins/imageformats/libqsvg.dylib',
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/plugins/imageformats/libqgif.dylib',
+   'BINARY'),
+  ('PySide6/Qt/plugins/platforminputcontexts/libqtvirtualkeyboardplugin.dylib',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/plugins/platforminputcontexts/libqtvirtualkeyboardplugin.dylib',
+   'BINARY'),
+  ('PySide6/Qt/plugins/imageformats/libqwbmp.dylib',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/plugins/imageformats/libqwbmp.dylib',
+   'BINARY'),
+  ('PySide6/Qt/plugins/imageformats/libqmacjp2.dylib',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/plugins/imageformats/libqmacjp2.dylib',
+   'BINARY'),
+  ('PySide6/Qt/plugins/imageformats/libqicns.dylib',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/plugins/imageformats/libqicns.dylib',
+   'BINARY'),
+  ('PySide6/Qt/plugins/generic/libqtuiotouchplugin.dylib',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/plugins/generic/libqtuiotouchplugin.dylib',
+   'BINARY'),
+  ('PySide6/Qt/plugins/imageformats/libqjpeg.dylib',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/plugins/imageformats/libqjpeg.dylib',
+   'BINARY'),
+  ('PySide6/Qt/plugins/platforms/libqoffscreen.dylib',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/plugins/platforms/libqoffscreen.dylib',
    'BINARY'),
   ('PySide6/Qt/plugins/imageformats/libqtiff.dylib',
    '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
    'final/.venv/lib/python3.14/site-packages/PySide6/Qt/plugins/imageformats/libqtiff.dylib',
+   'BINARY'),
+  ('PySide6/Qt/plugins/imageformats/libqpdf.dylib',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/plugins/imageformats/libqpdf.dylib',
+   'BINARY'),
+  ('PySide6/Qt/plugins/platforms/libqcocoa.dylib',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/plugins/platforms/libqcocoa.dylib',
+   'BINARY'),
+  ('PySide6/Qt/plugins/iconengines/libqsvgicon.dylib',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/plugins/iconengines/libqsvgicon.dylib',
+   'BINARY'),
+  ('PySide6/Qt/plugins/platforms/libqminimal.dylib',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/plugins/platforms/libqminimal.dylib',
+   'BINARY'),
+  ('PySide6/Qt/plugins/imageformats/libqmacheif.dylib',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/plugins/imageformats/libqmacheif.dylib',
+   'BINARY'),
+  ('PySide6/Qt/plugins/imageformats/libqico.dylib',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/plugins/imageformats/libqico.dylib',
+   'BINARY'),
+  ('PySide6/Qt/plugins/imageformats/libqtga.dylib',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/plugins/imageformats/libqtga.dylib',
+   'BINARY'),
+  ('PySide6/Qt/plugins/tls/libqopensslbackend.dylib',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/plugins/tls/libqopensslbackend.dylib',
+   'BINARY'),
+  ('PySide6/Qt/plugins/tls/libqsecuretransportbackend.dylib',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/plugins/tls/libqsecuretransportbackend.dylib',
    'BINARY'),
   ('PySide6/Qt/plugins/networkinformation/libqapplenetworkinformation.dylib',
    '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
@@ -912,14 +920,6 @@
   ('PySide6/Qt/plugins/tls/libqcertonlybackend.dylib',
    '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
    'final/.venv/lib/python3.14/site-packages/PySide6/Qt/plugins/tls/libqcertonlybackend.dylib',
-   'BINARY'),
-  ('PySide6/Qt/plugins/tls/libqsecuretransportbackend.dylib',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/plugins/tls/libqsecuretransportbackend.dylib',
-   'BINARY'),
-  ('PySide6/Qt/plugins/tls/libqopensslbackend.dylib',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/plugins/tls/libqopensslbackend.dylib',
    'BINARY'),
   ('python3.14/lib-dynload/_posixshmem.cpython-314-darwin.so',
    '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/lib-dynload/_posixshmem.cpython-314-darwin.so',
@@ -1029,9 +1029,6 @@
   ('python3.14/lib-dynload/_queue.cpython-314-darwin.so',
    '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/lib-dynload/_queue.cpython-314-darwin.so',
    'EXTENSION'),
-  ('python3.14/lib-dynload/_heapq.cpython-314-darwin.so',
-   '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/lib-dynload/_heapq.cpython-314-darwin.so',
-   'EXTENSION'),
   ('python3.14/lib-dynload/_multibytecodec.cpython-314-darwin.so',
    '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/lib-dynload/_multibytecodec.cpython-314-darwin.so',
    'EXTENSION'),
@@ -1052,6 +1049,9 @@
    'EXTENSION'),
   ('python3.14/lib-dynload/_codecs_hk.cpython-314-darwin.so',
    '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/lib-dynload/_codecs_hk.cpython-314-darwin.so',
+   'EXTENSION'),
+  ('python3.14/lib-dynload/_heapq.cpython-314-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/lib-dynload/_heapq.cpython-314-darwin.so',
    'EXTENSION'),
   ('PySide6/QtWidgets.abi3.so',
    '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
@@ -1115,17 +1115,25 @@
    '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
    'final/.venv/lib/python3.14/site-packages/PySide6/Qt/lib/QtWidgets.framework/Versions/A/QtWidgets',
    'BINARY'),
+  ('PySide6/Qt/lib/QtSvg.framework/Versions/A/QtSvg',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/lib/QtSvg.framework/Versions/A/QtSvg',
+   'BINARY'),
   ('PySide6/Qt/lib/QtOpenGL.framework/Versions/A/QtOpenGL',
    '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
    'final/.venv/lib/python3.14/site-packages/PySide6/Qt/lib/QtOpenGL.framework/Versions/A/QtOpenGL',
+   'BINARY'),
+  ('PySide6/Qt/lib/QtVirtualKeyboardQml.framework/Versions/A/QtVirtualKeyboardQml',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/lib/QtVirtualKeyboardQml.framework/Versions/A/QtVirtualKeyboardQml',
    'BINARY'),
   ('PySide6/Qt/lib/QtQuick.framework/Versions/A/QtQuick',
    '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
    'final/.venv/lib/python3.14/site-packages/PySide6/Qt/lib/QtQuick.framework/Versions/A/QtQuick',
    'BINARY'),
-  ('PySide6/Qt/lib/QtVirtualKeyboardQml.framework/Versions/A/QtVirtualKeyboardQml',
+  ('PySide6/Qt/lib/QtVirtualKeyboard.framework/Versions/A/QtVirtualKeyboard',
    '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/lib/QtVirtualKeyboardQml.framework/Versions/A/QtVirtualKeyboardQml',
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/lib/QtVirtualKeyboard.framework/Versions/A/QtVirtualKeyboard',
    'BINARY'),
   ('PySide6/Qt/lib/QtNetwork.framework/Versions/A/QtNetwork',
    '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
@@ -1135,17 +1143,9 @@
    '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
    'final/.venv/lib/python3.14/site-packages/PySide6/Qt/lib/QtQml.framework/Versions/A/QtQml',
    'BINARY'),
-  ('PySide6/Qt/lib/QtVirtualKeyboard.framework/Versions/A/QtVirtualKeyboard',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/lib/QtVirtualKeyboard.framework/Versions/A/QtVirtualKeyboard',
-   'BINARY'),
   ('PySide6/Qt/lib/QtPdf.framework/Versions/A/QtPdf',
    '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
    'final/.venv/lib/python3.14/site-packages/PySide6/Qt/lib/QtPdf.framework/Versions/A/QtPdf',
-   'BINARY'),
-  ('PySide6/Qt/lib/QtSvg.framework/Versions/A/QtSvg',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/lib/QtSvg.framework/Versions/A/QtSvg',
    'BINARY'),
   ('libcrypto.3.dylib',
    '/Library/Frameworks/Python.framework/Versions/3.14/lib/libcrypto.3.dylib',
@@ -1171,13 +1171,13 @@
   ('libportaudio.2.dylib',
    '/opt/homebrew/opt/portaudio/lib/libportaudio.2.dylib',
    'BINARY'),
-  ('PySide6/Qt/lib/QtQmlMeta.framework/Versions/A/QtQmlMeta',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/lib/QtQmlMeta.framework/Versions/A/QtQmlMeta',
-   'BINARY'),
   ('PySide6/Qt/lib/QtQmlModels.framework/Versions/A/QtQmlModels',
    '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
    'final/.venv/lib/python3.14/site-packages/PySide6/Qt/lib/QtQmlModels.framework/Versions/A/QtQmlModels',
+   'BINARY'),
+  ('PySide6/Qt/lib/QtQmlMeta.framework/Versions/A/QtQmlMeta',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/lib/QtQmlMeta.framework/Versions/A/QtQmlMeta',
    'BINARY'),
   ('PySide6/Qt/lib/QtQmlWorkerScript.framework/Versions/A/QtQmlWorkerScript',
    '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
@@ -1185,25 +1185,373 @@
    'BINARY')],
  [],
  [],
- [('PySide6/Qt/translations/qt_gl.qm',
+ [('PySide6/Qt/translations/qtbase_ru.qm',
    '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_gl.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qt_help_pl.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_help_pl.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qtbase_bg.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qtbase_bg.qm',
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qtbase_ru.qm',
    'DATA'),
   ('PySide6/Qt/translations/qt_help_sv.qm',
    '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
    'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_help_sv.qm',
    'DATA'),
+  ('PySide6/Qt/translations/qt_help_fr.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_help_fr.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_es.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_es.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_it.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_it.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_tr.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_tr.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qtbase_en.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qtbase_en.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_sl.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_sl.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qtbase_es.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qtbase_es.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_he.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_he.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_ja.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_ja.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_help_es.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_help_es.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_hr.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_hr.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_help_en.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_help_en.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_ru.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_ru.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_uk.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_uk.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_help_sl.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_help_sl.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qtbase_gd.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qtbase_gd.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_help_ar.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_help_ar.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qtbase_ka.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qtbase_ka.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_lg.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_lg.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_help_it.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_help_it.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_hu.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_hu.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qtbase_ja.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qtbase_ja.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_help_ru.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_help_ru.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qtbase_nn.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qtbase_nn.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qtbase_zh_CN.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qtbase_zh_CN.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qtbase_it.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qtbase_it.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qtbase_zh_TW.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qtbase_zh_TW.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_pl.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_pl.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_gl.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_gl.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_zh_CN.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_zh_CN.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qtbase_tr.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qtbase_tr.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qtbase_uk.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qtbase_uk.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qtbase_lg.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qtbase_lg.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_ar.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_ar.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qtbase_sv.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qtbase_sv.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qtbase_bg.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qtbase_bg.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_fi.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_fi.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_ko.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_ko.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qtbase_lv.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qtbase_lv.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_gd.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_gd.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_en.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_en.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qtbase_fa.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qtbase_fa.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_help_gl.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_help_gl.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qtbase_sk.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qtbase_sk.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qtbase_fi.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qtbase_fi.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_lt.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_lt.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_help_uk.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_help_uk.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qtbase_he.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qtbase_he.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_help_hu.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_help_hu.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_bg.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_bg.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_help_hr.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_help_hr.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_help_ca.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_help_ca.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_sk.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_sk.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_cs.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_cs.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_help_da.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_help_da.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_nl.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_nl.qm',
+   'DATA'),
   ('PySide6/Qt/translations/qtbase_ko.qm',
    '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
    'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qtbase_ko.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qtbase_hu.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qtbase_hu.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_de.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_de.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_help_cs.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_help_cs.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_ca.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_ca.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_help_pl.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_help_pl.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qtbase_ar.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qtbase_ar.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_help_zh_TW.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_help_zh_TW.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qtbase_cs.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qtbase_cs.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qtbase_fr.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qtbase_fr.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_help_ka.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_help_ka.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_fr.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_fr.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qtbase_nl.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qtbase_nl.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_help_nl.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_help_nl.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qtbase_da.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qtbase_da.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_pt_PT.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_pt_PT.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qtbase_de.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qtbase_de.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_pt_BR.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_pt_BR.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_help_pt_BR.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_help_pt_BR.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_help_zh_CN.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_help_zh_CN.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_help_ja.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_help_ja.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_zh_TW.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_zh_TW.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qtbase_pl.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qtbase_pl.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_nn.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_nn.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qtbase_pt_BR.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qtbase_pt_BR.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_help_nn.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_help_nn.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_help_bg.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_help_bg.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_help_de.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_help_de.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_da.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_da.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qtbase_hr.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qtbase_hr.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qtbase_ca.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qtbase_ca.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_fa.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_fa.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_help_sk.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_help_sk.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_help_tr.qm',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_help_tr.qm',
    'DATA'),
   ('PySide6/Qt/translations/qt_lv.qm',
    '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
@@ -1213,421 +1561,73 @@
    '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
    'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_sv.qm',
    'DATA'),
-  ('PySide6/Qt/translations/qt_help_ru.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_help_ru.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qt_sl.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_sl.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qt_help_cs.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_help_cs.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qt_ja.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_ja.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qtbase_hu.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qtbase_hu.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qt_help_hu.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_help_hu.qm',
-   'DATA'),
   ('PySide6/Qt/translations/qt_ka.qm',
    '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
    'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_ka.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qt_help_ar.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_help_ar.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qtbase_fa.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qtbase_fa.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qt_cs.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_cs.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qtbase_hr.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qtbase_hr.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qt_zh_CN.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_zh_CN.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qt_hr.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_hr.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qtbase_zh_CN.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qtbase_zh_CN.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qt_ru.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_ru.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qt_sk.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_sk.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qt_en.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_en.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qt_fa.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_fa.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qtbase_pt_BR.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qtbase_pt_BR.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qt_help_es.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_help_es.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qt_zh_TW.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_zh_TW.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qtbase_he.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qtbase_he.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qt_help_ka.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_help_ka.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qtbase_ru.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qtbase_ru.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qt_help_tr.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_help_tr.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qt_lt.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_lt.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qt_nl.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_nl.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qt_help_uk.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_help_uk.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qt_hu.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_hu.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qtbase_ka.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qtbase_ka.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qt_help_zh_CN.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_help_zh_CN.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qt_help_pt_BR.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_help_pt_BR.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qtbase_nn.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qtbase_nn.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qt_tr.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_tr.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qtbase_pl.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qtbase_pl.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qt_help_nl.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_help_nl.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qtbase_cs.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qtbase_cs.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qt_pt_PT.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_pt_PT.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qt_help_sk.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_help_sk.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qt_ar.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_ar.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qtbase_uk.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qtbase_uk.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qt_help_en.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_help_en.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qtbase_fr.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qtbase_fr.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qt_help_sl.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_help_sl.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qt_help_fr.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_help_fr.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qt_help_ja.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_help_ja.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qtbase_de.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qtbase_de.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qtbase_zh_TW.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qtbase_zh_TW.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qt_bg.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_bg.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qtbase_ja.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qtbase_ja.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qtbase_tr.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qtbase_tr.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qtbase_fi.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qtbase_fi.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qtbase_it.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qtbase_it.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qt_nn.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_nn.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qt_help_da.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_help_da.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qt_uk.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_uk.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qtbase_lv.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qtbase_lv.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qtbase_sk.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qtbase_sk.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qt_lg.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_lg.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qt_ca.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_ca.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qt_help_de.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_help_de.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qt_pl.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_pl.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qtbase_ar.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qtbase_ar.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qt_help_hr.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_help_hr.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qt_help_zh_TW.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_help_zh_TW.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qtbase_en.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qtbase_en.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qt_fi.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_fi.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qt_help_nn.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_help_nn.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qt_it.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_it.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qt_help_it.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_help_it.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qtbase_gd.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qtbase_gd.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qtbase_sv.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qtbase_sv.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qt_pt_BR.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_pt_BR.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qt_da.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_da.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qt_fr.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_fr.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qt_gd.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_gd.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qt_de.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_de.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qt_help_ca.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_help_ca.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qt_he.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_he.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qtbase_da.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qtbase_da.qm',
    'DATA'),
   ('PySide6/Qt/translations/qt_help_ko.qm',
    '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
    'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_help_ko.qm',
    'DATA'),
-  ('PySide6/Qt/translations/qt_ko.qm',
+  ('speech_recognition/pocketsphinx-data/en-US/acoustic-model/mdef',
    '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_ko.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qtbase_nl.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qtbase_nl.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qt_help_gl.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_help_gl.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qt_es.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_es.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qtbase_ca.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qtbase_ca.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qtbase_lg.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qtbase_lg.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qtbase_es.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qtbase_es.qm',
-   'DATA'),
-  ('PySide6/Qt/translations/qt_help_bg.qm',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/PySide6/Qt/translations/qt_help_bg.qm',
-   'DATA'),
-  ('speech_recognition/pocketsphinx-data/en-US/LICENSE.txt',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/speech_recognition/pocketsphinx-data/en-US/LICENSE.txt',
-   'DATA'),
-  ('speech_recognition/version.txt',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/speech_recognition/version.txt',
-   'DATA'),
-  ('speech_recognition/pocketsphinx-data/en-US/pronounciation-dictionary.dict',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/speech_recognition/pocketsphinx-data/en-US/pronounciation-dictionary.dict',
-   'DATA'),
-  ('speech_recognition/pocketsphinx-data/en-US/acoustic-model/noisedict',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/speech_recognition/pocketsphinx-data/en-US/acoustic-model/noisedict',
+   'final/.venv/lib/python3.14/site-packages/speech_recognition/pocketsphinx-data/en-US/acoustic-model/mdef',
    'DATA'),
   ('speech_recognition/pocketsphinx-data/en-US/acoustic-model/sendump',
    '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
    'final/.venv/lib/python3.14/site-packages/speech_recognition/pocketsphinx-data/en-US/acoustic-model/sendump',
    'DATA'),
-  ('speech_recognition/pocketsphinx-data/en-US/acoustic-model/README',
+  ('speech_recognition/pocketsphinx-data/en-US/acoustic-model/noisedict',
    '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/speech_recognition/pocketsphinx-data/en-US/acoustic-model/README',
-   'DATA'),
-  ('speech_recognition/pocketsphinx-data/en-US/acoustic-model/variances',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/speech_recognition/pocketsphinx-data/en-US/acoustic-model/variances',
-   'DATA'),
-  ('speech_recognition/pocketsphinx-data/en-US/acoustic-model/means',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/speech_recognition/pocketsphinx-data/en-US/acoustic-model/means',
-   'DATA'),
-  ('speech_recognition/pocketsphinx-data/en-US/acoustic-model/feat.params',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/speech_recognition/pocketsphinx-data/en-US/acoustic-model/feat.params',
-   'DATA'),
-  ('speech_recognition/flac-linux-x86',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/speech_recognition/flac-linux-x86',
-   'DATA'),
-  ('speech_recognition/pocketsphinx-data/en-US/acoustic-model/mdef',
-   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/speech_recognition/pocketsphinx-data/en-US/acoustic-model/mdef',
+   'final/.venv/lib/python3.14/site-packages/speech_recognition/pocketsphinx-data/en-US/acoustic-model/noisedict',
    'DATA'),
   ('speech_recognition/flac-linux-x86_64',
    '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
    'final/.venv/lib/python3.14/site-packages/speech_recognition/flac-linux-x86_64',
    'DATA'),
-  ('speech_recognition/flac-win32.exe',
+  ('speech_recognition/flac-linux-x86',
    '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
-   'final/.venv/lib/python3.14/site-packages/speech_recognition/flac-win32.exe',
+   'final/.venv/lib/python3.14/site-packages/speech_recognition/flac-linux-x86',
+   'DATA'),
+  ('speech_recognition/pocketsphinx-data/en-US/acoustic-model/means',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/speech_recognition/pocketsphinx-data/en-US/acoustic-model/means',
+   'DATA'),
+  ('speech_recognition/pocketsphinx-data/en-US/pronounciation-dictionary.dict',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/speech_recognition/pocketsphinx-data/en-US/pronounciation-dictionary.dict',
+   'DATA'),
+  ('speech_recognition/pocketsphinx-data/en-US/acoustic-model/variances',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/speech_recognition/pocketsphinx-data/en-US/acoustic-model/variances',
+   'DATA'),
+  ('speech_recognition/pocketsphinx-data/en-US/acoustic-model/feat.params',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/speech_recognition/pocketsphinx-data/en-US/acoustic-model/feat.params',
    'DATA'),
   ('speech_recognition/pocketsphinx-data/en-US/acoustic-model/transition_matrices',
    '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
    'final/.venv/lib/python3.14/site-packages/speech_recognition/pocketsphinx-data/en-US/acoustic-model/transition_matrices',
    'DATA'),
+  ('speech_recognition/pocketsphinx-data/en-US/LICENSE.txt',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/speech_recognition/pocketsphinx-data/en-US/LICENSE.txt',
+   'DATA'),
+  ('speech_recognition/pocketsphinx-data/en-US/acoustic-model/README',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/speech_recognition/pocketsphinx-data/en-US/acoustic-model/README',
+   'DATA'),
   ('speech_recognition/pocketsphinx-data/en-US/language-model.lm.bin',
    '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
    'final/.venv/lib/python3.14/site-packages/speech_recognition/pocketsphinx-data/en-US/language-model.lm.bin',
+   'DATA'),
+  ('speech_recognition/flac-win32.exe',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/speech_recognition/flac-win32.exe',
+   'DATA'),
+  ('speech_recognition/version.txt',
+   '/Users/ilumionu/Documents/uao/algoritmos y programacion/Proyecto '
+   'final/.venv/lib/python3.14/site-packages/speech_recognition/version.txt',
    'DATA'),
   ('Python', 'Python.framework/Versions/3.14/Python', 'SYMLINK'),
   ('base_library.zip',
@@ -1639,22 +1639,22 @@
   ('QtWidgets',
    'PySide6/Qt/lib/QtWidgets.framework/Versions/A/QtWidgets',
    'SYMLINK'),
+  ('QtSvg', 'PySide6/Qt/lib/QtSvg.framework/Versions/A/QtSvg', 'SYMLINK'),
   ('QtOpenGL',
    'PySide6/Qt/lib/QtOpenGL.framework/Versions/A/QtOpenGL',
    'SYMLINK'),
-  ('QtQuick', 'PySide6/Qt/lib/QtQuick.framework/Versions/A/QtQuick', 'SYMLINK'),
   ('QtVirtualKeyboardQml',
    'PySide6/Qt/lib/QtVirtualKeyboardQml.framework/Versions/A/QtVirtualKeyboardQml',
+   'SYMLINK'),
+  ('QtQuick', 'PySide6/Qt/lib/QtQuick.framework/Versions/A/QtQuick', 'SYMLINK'),
+  ('QtVirtualKeyboard',
+   'PySide6/Qt/lib/QtVirtualKeyboard.framework/Versions/A/QtVirtualKeyboard',
    'SYMLINK'),
   ('QtNetwork',
    'PySide6/Qt/lib/QtNetwork.framework/Versions/A/QtNetwork',
    'SYMLINK'),
   ('QtQml', 'PySide6/Qt/lib/QtQml.framework/Versions/A/QtQml', 'SYMLINK'),
-  ('QtVirtualKeyboard',
-   'PySide6/Qt/lib/QtVirtualKeyboard.framework/Versions/A/QtVirtualKeyboard',
-   'SYMLINK'),
   ('QtPdf', 'PySide6/Qt/lib/QtPdf.framework/Versions/A/QtPdf', 'SYMLINK'),
-  ('QtSvg', 'PySide6/Qt/lib/QtSvg.framework/Versions/A/QtSvg', 'SYMLINK'),
   ('libpyside6.abi3.6.11.dylib',
    'PySide6/libpyside6.abi3.6.11.dylib',
    'SYMLINK'),
@@ -1662,11 +1662,11 @@
    'shiboken6/libshiboken6.abi3.6.11.dylib',
    'SYMLINK'),
   ('QtDBus', 'PySide6/Qt/lib/QtDBus.framework/Versions/A/QtDBus', 'SYMLINK'),
-  ('QtQmlMeta',
-   'PySide6/Qt/lib/QtQmlMeta.framework/Versions/A/QtQmlMeta',
-   'SYMLINK'),
   ('QtQmlModels',
    'PySide6/Qt/lib/QtQmlModels.framework/Versions/A/QtQmlModels',
+   'SYMLINK'),
+  ('QtQmlMeta',
+   'PySide6/Qt/lib/QtQmlMeta.framework/Versions/A/QtQmlMeta',
    'SYMLINK'),
   ('QtQmlWorkerScript',
    'PySide6/Qt/lib/QtQmlWorkerScript.framework/Versions/A/QtQmlWorkerScript',
@@ -1840,13 +1840,7 @@
    '/Library/Frameworks/Python.framework/Versions/3.14/Resources/Info.plist',
    'DATA'),
   ('Python.framework/Versions/Current', '3.14', 'SYMLINK')],
- [('ntpath',
-   '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/ntpath.py',
-   'PYMODULE'),
-  ('stat',
-   '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/stat.py',
-   'PYMODULE'),
-  ('re._parser',
+ [('re._parser',
    '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/re/_parser.py',
    'PYMODULE'),
   ('re._constants',
@@ -1861,11 +1855,26 @@
   ('re',
    '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/re/__init__.py',
    'PYMODULE'),
-  ('codecs',
-   '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/codecs.py',
+  ('_collections_abc',
+   '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/_collections_abc.py',
    'PYMODULE'),
-  ('warnings',
-   '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/warnings.py',
+  ('keyword',
+   '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/keyword.py',
+   'PYMODULE'),
+  ('posixpath',
+   '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/posixpath.py',
+   'PYMODULE'),
+  ('genericpath',
+   '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/genericpath.py',
+   'PYMODULE'),
+  ('locale',
+   '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/locale.py',
+   'PYMODULE'),
+  ('ntpath',
+   '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/ntpath.py',
+   'PYMODULE'),
+  ('operator',
+   '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/operator.py',
    'PYMODULE'),
   ('sre_parse',
    '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/sre_parse.py',
@@ -1873,65 +1882,26 @@
   ('enum',
    '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/enum.py',
    'PYMODULE'),
-  ('heapq',
-   '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/heapq.py',
-   'PYMODULE'),
-  ('sre_compile',
-   '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/sre_compile.py',
-   'PYMODULE'),
   ('sre_constants',
    '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/sre_constants.py',
-   'PYMODULE'),
-  ('traceback',
-   '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/traceback.py',
-   'PYMODULE'),
-  ('copyreg',
-   '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/copyreg.py',
    'PYMODULE'),
   ('_weakrefset',
    '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/_weakrefset.py',
    'PYMODULE'),
-  ('_collections_abc',
-   '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/_collections_abc.py',
-   'PYMODULE'),
-  ('genericpath',
-   '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/genericpath.py',
-   'PYMODULE'),
   ('collections',
    '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/collections/__init__.py',
-   'PYMODULE'),
-  ('reprlib',
-   '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/reprlib.py',
-   'PYMODULE'),
-  ('locale',
-   '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/locale.py',
-   'PYMODULE'),
-  ('operator',
-   '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/operator.py',
-   'PYMODULE'),
-  ('types',
-   '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/types.py',
-   'PYMODULE'),
-  ('io',
-   '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/io.py',
-   'PYMODULE'),
-  ('abc',
-   '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/abc.py',
    'PYMODULE'),
   ('linecache',
    '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/linecache.py',
    'PYMODULE'),
-  ('posixpath',
-   '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/posixpath.py',
+  ('codecs',
+   '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/codecs.py',
    'PYMODULE'),
-  ('keyword',
-   '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/keyword.py',
+  ('stat',
+   '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/stat.py',
    'PYMODULE'),
-  ('weakref',
-   '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/weakref.py',
-   'PYMODULE'),
-  ('functools',
-   '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/functools.py',
+  ('copyreg',
+   '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/copyreg.py',
    'PYMODULE'),
   ('encodings.zlib_codec',
    '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/encodings/zlib_codec.py',
@@ -2301,6 +2271,36 @@
    'PYMODULE'),
   ('encodings',
    '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/encodings/__init__.py',
+   'PYMODULE'),
+  ('types',
+   '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/types.py',
+   'PYMODULE'),
+  ('heapq',
+   '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/heapq.py',
+   'PYMODULE'),
+  ('warnings',
+   '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/warnings.py',
+   'PYMODULE'),
+  ('functools',
+   '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/functools.py',
+   'PYMODULE'),
+  ('reprlib',
+   '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/reprlib.py',
+   'PYMODULE'),
+  ('io',
+   '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/io.py',
+   'PYMODULE'),
+  ('abc',
+   '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/abc.py',
+   'PYMODULE'),
+  ('sre_compile',
+   '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/sre_compile.py',
+   'PYMODULE'),
+  ('weakref',
+   '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/weakref.py',
+   'PYMODULE'),
+  ('traceback',
+   '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/traceback.py',
    'PYMODULE'),
   ('os',
    '/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/os.py',
